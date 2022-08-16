@@ -1,0 +1,1 @@
+Nest.js + Typescript + Abstract factory + Discovery service
